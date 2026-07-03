@@ -1,4 +1,4 @@
-# 
+# Inteligente Pixelle-Video plugins. Com fluxos de trabalho automatizados e busca semântica — otimizado para máximo desempenho e eficiência.
 
 
 
